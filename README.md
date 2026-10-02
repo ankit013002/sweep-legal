@@ -1,6 +1,5 @@
-# Sweep — legal pages
+# Sweep: moved
 
-Privacy policy and terms of use for the Sweep app, published with GitHub Pages.
-
-- Privacy: https://ankit013002.github.io/sweep-legal/privacy.html
-- Terms: https://ankit013002.github.io/sweep-legal/terms.html
+Sweep's privacy policy, terms and support pages now live at **https://petalformllc.com/apps/sweep/**.
+Every page of this GitHub Pages site redirects to its new address, so old links keep working.
+Edit the documents in the `petalformllc-site` repo (`content/legal/sweep/`), not here.
